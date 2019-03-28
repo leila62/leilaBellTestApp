@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Leila Bell TestApp</string>
+    <string name="consumer_key">gvZJzLqJoelRHQDMJpzd7s0bw</string>
+    <string name="consumer_secret">Xxobv13HYhOBsmaAoUZPi7W7lkkVUJ4dA6AqSWDr2Ai70EGSmP</string>
+    <string name="tweet_url">https://api.twitter.com/1.1/search/tweets.json?q=</string>
+    <string name="auth_url">https://api.twitter.com/oauth2/token</string>
+    <string name="grant_type">grant_type=client_credentials</string>
+    <string name="authorization">Authorization</string>
+    <string name="load_tweets">Load Tweets</string>
+    <string name="bearer">Bearer</string>
+    <string name="content_type">Content-Type</string>
+    <string name="content_type_text">application/x-www-form-urlencoded;charset=UTF-8</string>
+    <string name="basic">Basic</string>
+    <string name="welcome">Enjoy my test APP!!!</string>
+</resources>
